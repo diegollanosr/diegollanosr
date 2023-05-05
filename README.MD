@@ -38,7 +38,7 @@ Me gusta pasar tiempo y compartir mis conocimientos y orientar a las personas a 
 
 ---
 
-###🖇Softs Skills:
+### 🖇Softs Skills:
 
 ![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) ![Interacción](https://img.shields.io/badge/Interacción-orange?style=for-the-badge) ![Planificación y Foco](https://img.shields.io/badge/Planificación%20y%20Foco-8500fb?style=for-the-badge) ![Productividad](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
 
