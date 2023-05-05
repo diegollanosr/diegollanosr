@@ -1,5 +1,5 @@
 ## Bienvenido a mi repositorio, Soy Diego Llanos Requelme
-###### *Bachiller en contabilidad y Programador Front-End *
+###### *Bachiller en contabilidad y Programador Front-End*
 ---
 
 Estudie Contabilidad y programación, puesto que siempre busco generar propuestas de valor para solucionar problemas financieros y la optimización de procesos. Mi aporte profesional se ha distinguido por ayudar en la sistematización de procesos para cumplir con las metas y objetivos de las personas y empresas para las que he trabajado.
