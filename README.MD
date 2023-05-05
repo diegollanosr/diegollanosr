@@ -8,7 +8,7 @@ Me gusta pasar tiempo y compartir mis conocimientos y orientar a las personas a 
 ---
 🔗 Redes sociales:
 
-<a href="https://www.facebook.com/diegollanosr17" target="_blank">![Facebook](https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> <a href="https://www.instagram.com/diegollanosr17/" target="_blank">![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/diegollanosr/" target="_blank">![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.youtube.com/channel/UCafWC3UQA9V-N2R2pRRjdkw" target="_blank">![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.facebook.com/diegollanosr17" target="_blank">![Facebook](https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> <a href="https://www.instagram.com/diegollanosr17/" target="_blank">![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/diegollanosr/" target="_blank">![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.youtube.com/@diegollanosr" target="_blank">![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 ---
 
