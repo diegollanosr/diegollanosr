@@ -49,4 +49,6 @@ Me gusta pasar tiempo y compartir mis conocimientos y orientar a las personas a 
 
 ### 📂 Visita mi portafolio: 
 
-<a href="http://diegollanosr.github.io/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-FF0039?style=for-the-badge)</a>
+<a href="http://diegollanosr.github.io/" target="_blank">
+<img src="target_portafolio.svg" width="120px" >
+</a>
